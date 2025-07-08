@@ -1,9 +1,6 @@
 # -*- conf -*-
 # Rosé Pine Moon
 
-[cursor]
-color=232136 e0def4
-
 [colors]
 background=232136
 foreground=e0def4
@@ -28,3 +25,4 @@ bright7=fefcff      # bright white (lighter Text)
 
 flash=f6c177        # yellow (Gold)
 
+cursor=232136 e0def4

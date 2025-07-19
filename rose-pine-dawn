@@ -1,9 +1,6 @@
 # -*- conf -*-
 # Rosé Pine Dawn
 
-[cursor]
-color=faf4ed 575279
-
 [colors]
 background=faf4ed
 foreground=575279
@@ -28,3 +25,4 @@ bright7=7c76a0      # bright white (lighter Text)
 
 flash=ea9d34        # yellow (Gold)
 
+cursor=faf4ed 575279

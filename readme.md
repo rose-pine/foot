@@ -18,7 +18,7 @@
 3. Add an `include` directive to your `foot.ini`:
 
 ```ini
-include /path/to/theme/rose-pine-dawn
+include=/path/to/theme/rose-pine-dawn
 ```
 
 ## Notes

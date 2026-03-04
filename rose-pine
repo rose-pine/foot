@@ -1,7 +1,7 @@
 # -*- conf -*-
 # Rosé Pine
 
-[colors]
+[colors-dark]
 background=191724 
 foreground=e0def4 
 

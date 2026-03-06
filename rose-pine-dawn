@@ -1,7 +1,10 @@
 # -*- conf -*-
 # Rosé Pine Dawn
 
-[colors]
+[main]
+initial-color-theme=light
+
+[colors-light]
 background=faf4ed
 foreground=575279
 

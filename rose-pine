@@ -2,8 +2,8 @@
 # Rosé Pine
 
 [colors-dark]
-background=191724 
-foreground=e0def4 
+background=191724
+foreground=e0def4
 
 regular0=26233a     # black (Overlay)
 regular1=eb6f92     # red (Love)
@@ -25,4 +25,4 @@ bright7=fefcff      # bright white (lighter Text)
 
 flash=f6c177        # yellow (Gold)
 
-cursor=191724 e0def4 
+cursor=191724 e0def4
